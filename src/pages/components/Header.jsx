@@ -22,9 +22,6 @@ const Header = () => {
           <NavLink to="/contact" className="text-sm font-medium transition-colors hover:text-primary">
             Contact
           </NavLink>
-          <NavLink to="/contact-us-companies" className="text-sm font-medium transition-colors hover:text-primary">
-            Contact Us - Companies
-          </NavLink>
         </nav>
       </div>
     </header>
